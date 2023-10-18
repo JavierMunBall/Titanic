@@ -16,4 +16,4 @@ De ellas vamos a extraer información y relaciones entre ellas para ver que nos 
 
 ## Herramientas empleadas
 
-Las herramientas que se han usado para trabajar sobre los datos han sido diferentes librerías, como pueden ser Pandas para el analisis, Plotly para la elaboración de algunas gráficas, Matplotlib para otras...y todo ello empleado en VS Code a través de un Jupiter NOtebook.
+Las herramientas que se han usado para trabajar sobre los datos han sido diferentes librerías, como pueden ser Pandas para el analisis, Plotly para la elaboración de algunas gráficas, Matplotlib para otras...y todo ello empleado en VS Code a través de un Jupiter Notebook.
